@@ -19,21 +19,19 @@ ul {
 .header-title {
   color: indigo;
   font-size: 5em;
-  margin:300px;
+  margin: 200px;
 }
  
 .header-subtitle {
   color: indigo;
   font-size: 2.5em;
-  margin: 100px;
+  margin: 200px;
 }
  
 .image {
   padding: 10px;
   max-width: 760px;
-  margin-left: 200px;
-  margin-up: 10px;
-  margin-down: 10px;
+  margin: 80px;
 }
  
 .events-title {
