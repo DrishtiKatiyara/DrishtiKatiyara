@@ -25,20 +25,15 @@ ul {
 .header-subtitle {
   color: black;
   font-size: 2.5em;
-  margin-left: 300px;
+  margin-left: 100px;
 }
  
 .image {
   padding: 10px;
   max-width: 760px;
-  margin-left: 300px;
-  margin-up: auto;
-  margin-down: auto;
-}
- 
-.thumbnail {
-  border-radius: 10px;
-
+  margin-left: 200px;
+  margin-up: 10px;
+  margin-down: 10px;
 }
  
 .events-title {
