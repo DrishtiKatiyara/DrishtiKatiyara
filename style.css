@@ -32,6 +32,8 @@ ul {
   padding: 10px;
   max-width: 760px;
   margin-left: 300px;
+  margin-up: auto;
+  margin-down: auto;
 }
  
 .thumbnail {
