@@ -12,20 +12,20 @@ ul {
 .container {
   background-color: #BDEDFF ;
   border-radius: 45px;
-  box-shadow: 18px 5px 5px Indigo;
+  box-shadow: 18px 10px 10px Indigo;
   margin: 24px auto;
 }
  
 .header-title {
-  color: navyblue;
+  color: indigo;
   font-size: 5em;
-  margin-left:300px;
+  margin:300px;
 }
  
 .header-subtitle {
-  color: black;
+  color: indigo;
   font-size: 2.5em;
-  margin-left: 100px;
+  margin: 100px;
 }
  
 .image {
@@ -38,17 +38,17 @@ ul {
  
 .events-title {
   font-size: 2.5em;
-  margin: 42px;
+  margin: 100px;
 }
 .events-list{
   font-size: 1.5em;
-  margin: 42px;
+  margin: 100px;
 }
 .about{
   font-size: 1.5em;
-  margin: 42px;
+  margin: 100px;
 }
 .quote{
   font-size: 1.2em;
-  margin: 42px;
+  margin: 100px;
 }
