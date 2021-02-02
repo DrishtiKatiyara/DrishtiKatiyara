@@ -4,11 +4,14 @@ body{
 
 }
 .container-fluid{
-  background-color:#EEEEEE;
+  background-color: lightgrey;
+  text-align: centre;
+  width: 60%;
 }
 .header{
   text-align: center;
 }
+.centre
 #imagetext{
   background-color: white !important;
 }
