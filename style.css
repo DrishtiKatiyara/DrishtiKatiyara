@@ -31,7 +31,7 @@ ul {
 .image {
   padding: 10px;
   max-width: 760px;
-  margin: 300px;
+  margin-left: 300px;
 }
  
 .thumbnail {
@@ -52,6 +52,6 @@ ul {
   margin: 42px;
 }
 .quote{
-  font-size: 1em;
+  font-size: 1.2em;
   margin: 42px;
 }
