@@ -18,32 +18,36 @@ ul {
  
 .header-title {
   color: indigo;
-  text-align: center;
   font-size: 5em;
-  margin: 80px;
+  margin-left:300px;
 }
  
 .header-subtitle {
-  color: indigo;
-  text-align: center;
+  color: black;
   font-size: 2.5em;
-  margin: 80px;
+  margin-left: 300px;
 }
  
 .image {
   padding: 10px;
   max-width: 760px;
-  margin: 80px;
+  margin: auto;
+}
+ 
+.thumbnail {
+  border-radius: 10px;
+
 }
  
 .events-title {
   font-size: 2.5em;
-  margin: 80px;
+  margin: 42px;
 }
 .events-list{
   font-size: 1.5em;
-  margin: 80px;
+  margin: 42px;
 }
+
 .about{
   font-size: 1.5em;
   margin: 80px;
